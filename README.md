@@ -1,2 +1,2 @@
 # wahyuanugrah
-TUGAS CRUD 
+TUGASCRUD 
